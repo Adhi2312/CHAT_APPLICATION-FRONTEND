@@ -75,7 +75,7 @@ useEffect(() => {
         <img id='h' src={image} style={{height:"50px",width:"50px",marginTop:"10px",marginLeft:"30px",borderRadius:"50px"}}/>
         </div>
         <p style={{width:"100%",marginTop:"20px"}}>
-          Funny Room
+{room_name}
 
         </p>
         <HiDotsVertical size={22} style={{width:"20%",marginTop:"20px"}}/>
